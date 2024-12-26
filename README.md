@@ -50,7 +50,9 @@ A placa de circuito impresso deve ter as dimensões de 70x67mm.
 
 - <img src="images/internalPart.png" width="500">
 
-- [Parte Interna](https://github.com/moacirrf/g29loadcell/blob/main/stl/casePCB.stl).
+- [Case para placa](https://github.com/moacirrf/g29loadcell/blob/main/stl/casePCB.stl).
+
+- <img src="images/casePcb.png" width="500">
 
 
 ### Imagem Final
