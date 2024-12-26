@@ -22,18 +22,23 @@ Essa é uma proposta de uma loadcell simples e barata para o Logitech G29.
 |    1        |  Trimpot multivoltas 1k Ohm          |
 |    1        |  Célula de Carga  de 3 fios          |
 |    2        |  Borne parafusavel 3 pinos           |
-|    1        |  Placa de circuito impresso 10x15cm  |
+|    1        |  Placa de circuito impresso 70x67mm  |
 |    1        |  Caneta marcador permanente          |
 |    1        |  Fios 1mm (vermelho, branco, preto)  |
 
-### PCB
+#### Diagrama de Circuito
 
-<img src="images/7.png" width="400">
+- <img src="pcb/diagramCircuit.png" width="500">
 
-<img src="images/5.png" width="400">
+#### PCB
+A placa de circuito impresso deve ter as dimensões de 70x67mm.
 
-<img src="images/6.png" width="400">
+- <img src="images/51.png" width="500">
 
-### Diagrama
+- <img src="images/6.png" width="500">
 
-<img src="images/8.png" width="400">
+- <img src="images/8.png" width="500">
+
+- <img src="images/7.png" width="500">
+
+
